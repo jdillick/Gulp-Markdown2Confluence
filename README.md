@@ -1,4 +1,4 @@
-# gulp-markdown2confluence
+# gulp-markdown2confluence [![Build Status](https://api.travis-ci.org/jdillick/gulp-markdown2confluence.svg?branch=master)](https://travis-ci.org/jdillick/gulp-markdown2confluence)
 
 > Markdown to Confluence with [markdown2confluence](https://github.com/chunpu/markdown2confluence)
 
