@@ -1,0 +1,31 @@
+{
+  "name": "gulp-markdown2confluence",
+  "version": "1.0.0",
+  "description": "Convert markdown to confluence in a gulp task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=6.8.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "markdown",
+    "confluence",
+    "convert"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "jdillick",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "markdown2confluence": "^1.1.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
